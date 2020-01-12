@@ -1,6 +1,6 @@
-# Echo Bot template
+# Parrot Echobot
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
+This is a simple echo bot for Microsoft Teams that echoes messages back to all of the user's devices.  Useful as a shared clipboard among devices or somewhere to jot down quick notes. 
 
 ## Prerequisites
 - [Node.js](https://nodejs.org) version 10.14 or higher
