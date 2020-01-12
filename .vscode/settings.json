@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/23e14722-3dda-4c21-b974-187d7a7d7c1b/resourceGroups/parrotchatbot/providers/Microsoft.Web/sites/parrotchatbot",
+    "appService.deploySubpath": ""
+}
